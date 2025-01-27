@@ -878,6 +878,9 @@ Royalty free music! Don't forget to check the license.
 [The California Problem](https://ellaguro.blogspot.com/2023/02/the-california-problem.html) 🟪 - One of my favorite articles ever written. A philosophical analysis of the culture of games as an industry and the importance of gamedev as a hobby, not just a business. 
 
 
+[So, you want to make a TTRPG?](https://thecoppercompendium.co.uk/so-you-want-to-make-a-ttrpg) 💠🟪 - A collection of resources for creating a TTRPG. Paper prototyping, anyone?
+
+
 [Game Developer (previously known as Gamasutra)](https://www.gamedeveloper.com/) - A site filled with post-mortems, gamedev news, blog posts, and other articles with a focus on game developers and their communities.
 
 
