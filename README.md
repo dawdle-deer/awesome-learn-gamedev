@@ -309,6 +309,9 @@ More huge lists of resources, with many, many more incredible things! Some of th
 [Kosmonaut's Blog](https://kosmonautblog.wordpress.com/) - A blog exploring various rendering implementations such as SDF rendering.
 
 
+[Behind the Pretty Frames](https://mamoniem.com/category/behind-the-pretty-frames/) - Technical explorations of the rendering pipelines behind games like Detroit: Become Human, Death Stranding, and God of War.
+
+
 <br />
 
 
