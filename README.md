@@ -175,6 +175,9 @@ More huge lists of resources, with many, many more incredible things! Some of th
 [Math for Game Programmers](https://gamemath.com/book/intro.html) - A free book on math for game programmers.
 
 
+[A Pragmatic Approach to Optimizing CPU Performance](https://larstofus.com/2024/10/19/a-pragmatic-approach-to-optimizing-cpu-performance/) 🟪 - Solid introductory advice for making code run fast. See also: [How to Build an Optimization Toolbox](https://larstofus.com/2024/12/30/how-to-build-an-optimization-toolbox/), an introduction to profiling tools, broken down by categories of purpose.
+
+
 [Mature Optimization](https://carlos.bueno.org/optimization/) - A free book on structuring code for performance, as well as testing large systems.
 
 
