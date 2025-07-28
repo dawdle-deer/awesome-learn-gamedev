@@ -288,7 +288,10 @@ More huge lists of resources, with many, many more incredible things! Some of th
 [Rendering Course](https://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/) - A free master's level course on ray tracing, photorealistic rendering, and global illumination taught at the Technical University of Vienna.
 
 
-["Painting with maths"](https://www.youtube.com/c/InigoQuilez) - A YouTube series about a _very_ technical art form
+[A Trip Through the Graphics Pipeline 2011](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/) 🟪 - A somewhat-dated dive into a typical graphics pipeline, intended for those with some exposure to graphics APIs such as OpenGL or Direct3D 11.
+
+
+["Painting with maths"](https://www.youtube.com/c/InigoQuilez) - A YouTube series about a _very_ technical art form.
 
 
 [GPU Memory pools in D3D12](https://therealmjp.github.io/posts/gpu-memory-pool/) - How GPU memory works in Direct3D 12.
