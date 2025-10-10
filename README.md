@@ -814,6 +814,9 @@ Royalty free music! Don't forget to check the license.
 [Blog by Derek Lieu](https://www.derek-lieu.com/blog/) 🟪 - A blog by Derek Lieu with advice on game trailers. I personally recommend "Show the Dream, Not the Job" and "Video Game Trailer Specifications" as starting points.
 
 
+[The Game Developer's Guide to Publishing Agreements](https://deviantlegal.com/guide/game-developers-guide-publishing-agreements/) 🟪 - An introduction to games contract law by René Otto, written primarily for developers seeking to work with publishers. 
+
+
 <br />
 
 ## Job Hunting and Career
