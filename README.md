@@ -665,6 +665,9 @@ Royalty Free Game Art! Don't forget to check the license.
 [Level Design and How To Get Into It](https://80.lv/articles/level-design-tips-tricks-and-how-to-get-into-it/) 💠 - A gentle introduction to level design.
 
 
+[The Level Design Book](https://book.leveldesignbook.com/) 💠🟪 - A free book on level design. The book is still being written, but contains many useful insights as it stands.
+
+
 [Trenchbroom Manual](https://trenchbroom.github.io/manual/latest/) 🟪 - The user guide for Trenchbroom, an enduring level editor. Though designed for the Quake engine, it finds use in other engines through tools such as [Qodot](https://qodotplugin.github.io/) and [Qnity](https://github.com/QFormatPlugins/Qnity)
 
 
