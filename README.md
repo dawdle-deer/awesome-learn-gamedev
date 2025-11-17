@@ -665,6 +665,12 @@ Royalty Free Game Art! Don't forget to check the license.
 [Level Design and How To Get Into It](https://80.lv/articles/level-design-tips-tricks-and-how-to-get-into-it/) 💠 - A gentle introduction to level design.
 
 
+[Trenchbroom Manual](https://trenchbroom.github.io/manual/latest/) 🟪 - The user guide for Trenchbroom, an enduring level editor. Though designed for the Quake engine, it finds use in other engines through tools such as [Qodot](https://qodotplugin.github.io/) and [Qnity](https://github.com/QFormatPlugins/Qnity)
+
+
+[Quake Mapping Tips](https://www.slipseer.com/index.php?threads/bals-quake-mapping-tips-tricks.100/) - Tips and tricks for Trenchbroom and Quake mapping.
+
+
 [Tiled](https://www.mapeditor.org/) - A free and open source map editor 
 
 
@@ -815,6 +821,12 @@ Royalty free music! Don't forget to check the license.
 
 
 [The Game Developer's Guide to Publishing Agreements](https://deviantlegal.com/guide/game-developers-guide-publishing-agreements/) 🟪 - An introduction to games contract law by René Otto, written primarily for developers seeking to work with publishers. 
+
+
+[GameDiscoverCo Newsletter](https://newsletter.gamediscover.co/) - A newsletter by Simon Carless and associates on "how people discover and buy video games" and related marketing/industry topics.
+
+
+[Push to Talk](https://www.pushtotalk.gg/about) - A newsletter on the business of making and marketing video games.
 
 
 <br />
