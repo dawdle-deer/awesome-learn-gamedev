@@ -751,6 +751,9 @@ Royalty Free Game Art! Don't forget to check the license.
 [GDC Freebies](https://sonniss.com/gameaudiogdc#1605030813191-c5a1f3d0-8baf) - Royalty free SFX samples from GDC.
 
 
+[EQ Ear Training Game](https://theaudiostuff.com/tools/ear-training/) - Free browser game for training frequency recognition by ear (tones from 20 Hz to 20 kHz), a core listening skill for mixing game audio.
+
+
 Royalty free music! Don't forget to check the license.
 - [Pixabay](https://pixabay.com/music/)
 - [DOVA-SYNDROME](https://www.youtube.com/c/DOVASYNDROMEYouTubeOfficial)
