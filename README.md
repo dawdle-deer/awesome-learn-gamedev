@@ -107,6 +107,7 @@ More huge lists of resources, with many, many more incredible things! Some of th
 - [Game Industry Resources](https://docs.google.com/document/d/1G0YTvNM8pzqjy_paxvEyVQSfb7KAJFGxJ5fY2ui8FEI/edit)
 - [38 Great Resources for Game Developers](https://www.gamedeveloper.com/audio/38-great-resources-for-game-developers)
 - [GameDev Resources](https://github.com/Kavex/GameDev-Resources)
+- [RespawnStack](https://respawnstack.com) - Curated directory of AI tools for game developers.
 - [Gamedev Resources](https://github.com/Hengle/gamedev-resources-1)
 - [Free & Cheap Indie GameDev Resources](https://community.gamedev.tv/t/wiki-free-cheap-indie-gamedev-resources/1948)
 - [Game Dev Resources](https://letsmakegames.info/game-dev-resources)
