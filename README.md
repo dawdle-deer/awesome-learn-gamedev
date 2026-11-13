@@ -261,6 +261,9 @@ More huge lists of resources, with many, many more incredible things! Some of th
 [AI Game Dev.com](https://web.archive.org/web/20190107192021/http://aigamedev.com/page/free-features/page/3/) - An AI development community with lots of resources. It only exists on the internet archive, so be wary of outdated knowledge and broken links.
 
 
+[HTML Game Code](https://html5gamesstudio.com/html-game-code) - Step-by-step tutorials for 25 classic small games (Snake, Pong, Breakout, Tetris, match-3, platformer, tower defense), each built in one HTML file with plain JavaScript and MIT source.
+
+
 <br />
 
 
