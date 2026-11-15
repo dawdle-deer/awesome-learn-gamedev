@@ -427,6 +427,9 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [Shaderquest](https://halisavakis.com/category/shaderquest/) - A guide series from a blog about tech art.
 
 
+[RafaSC UE5 Material Guides](https://rafucos.github.io/rafasc-links/guides/) - Short written guides on stylized water, toon shading and painted-edge materials in Unreal Engine 5.
+
+
 <br />
 
 
