@@ -748,6 +748,9 @@ Royalty Free Game Art! Don't forget to check the license.
 [Bosca Ceoil](https://boscaceoil.net/) - A very simplistic and limited but fast, free, and fun audio program for chiptune music! 
 
 
+[Apps66 Game Audio Converter](https://apps66.com/game-audio-converter) - An online vgmstream + FFmpeg decoder for inspecting and converting FMOD (`.fsb`), Wwise (`.wem`/`.bnk`), Nintendo (`.bfstm`/`.brstm`), CRIWARE (`.hca`/`.awb`), and XACT (`.xwb`) game audio banks to WAV/MP3/OGG/FLAC (free tier up to 50 MB, 3 conversions/24h, no account required).
+
+
 [GDC Freebies](https://sonniss.com/gameaudiogdc#1605030813191-c5a1f3d0-8baf) - Royalty free SFX samples from GDC.
 
 
