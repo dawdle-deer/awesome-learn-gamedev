@@ -782,6 +782,9 @@ Royalty free music! Don't forget to check the license.
 [Emily Short's Interactive Storytelling](https://emshort.blog/) - Neat blog on storytelling in games and interactive media.
 
 
+[branching-story-kit](https://github.com/ouba-studio/branching-story-kit) - Zero-dependency JavaScript engine for branching narratives: a JSON story graph with explicit state, gated choices, a memory log, save/restore and a static validator for interactive fiction and visual novels (MIT, free).
+
+
 <br />
 
 ## Production
